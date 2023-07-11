@@ -1,3 +1,9 @@
+
+
+
+https://github.com/Gauravbisht231/NewsApp/assets/77239173/f0f04577-4941-4f19-ac8b-4010cc8d2a1c
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
